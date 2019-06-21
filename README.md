@@ -65,4 +65,4 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 ## License ##
 
 Copyright (c) Microsoft Corporation. All rights reserved.<br/>
-Licensed under the [MIT](License.md) license.
+Licensed under the [MIT](LICENSE.txt) license.
